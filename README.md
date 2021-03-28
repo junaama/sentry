@@ -5,6 +5,10 @@
 ![System Design](https://res.cloudinary.com/dzfyk3r12/image/upload/v1616882194/Screenshot_from_2021-03-27_17-54-50_emflvf.png)
 
 [Wireframes](https://www.figma.com/file/YhPRnxjg4KXTlyyAaaP17U/RowdyHacks?node-id=0%3A1)
+
+## Directory
+[Frontend code built with React](/sentryfrontend)
+
 ## Available Scripts
 
 In the project directory, you can run:
