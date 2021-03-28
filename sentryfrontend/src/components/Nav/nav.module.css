@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    border-bottom: 1px solid gray;
+}
+.li {
+      text-decoration: none;
+      list-style: none;
+}
+.a {
+    text-decoration: none;
+   color: black;
+}

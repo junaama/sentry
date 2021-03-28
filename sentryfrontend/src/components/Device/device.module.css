@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+
+}
+.children {
+    border-radius: 20px;
+    background-color: #9CDBFF;
+    padding: 1rem;
+    filter: drop-shadow(2px 5px 1px lightgray);
+}
